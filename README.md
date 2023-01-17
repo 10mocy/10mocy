@@ -1,16 +1,39 @@
-### Hi there 👋
+> 食わず嫌いをしない。 / Don't judge by looks.
 
-<!--
-**10mocy/10mocy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 10mocy is ...
 
-Here are some ideas to get you started:
+- 🍷Me
+  - SAIGUSA Tomotada
+    - a.k.a. SOMEMIYA Neiro
+  - Born: Japan/Tochigi
+  - Live: Japan/Tokyo
+  - Currently working: Game Development Company
+  - E-Mail: ts@nectarition.jp
+- 📝Event Organizer
+  - [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
+  - [しおばな祭](https://shiokazehs.jp)
+- 🖌️Designer
+  - [Nectarition Broccli](https://github.com/nectarition/Broccoli)
+  - [and more...](https://nectarition.jp/departments/daylily/)
+- 🧠Leader/Manager
+  - [ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
+  - [N-Point](https://github.com/npjpnet) - Chief Human resource Officer
+- 📐Enginner
+  - [TrainLCD(Collabolator)](https://github.com/TrainLCD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Be interested in ... 
+
+- Technology
+  - Language/Framework
+    - TypeScript, React
+    - C#, .NET(ASP.NET Core)
+  - Infrastructure
+    - Microsoft Azure
+    - Google Cloud Platform(Firebase)
+- Signage system
+  - Keihan Electric Railway
+- Cutie Design
+
+### Link
+
+- [Wantedly(with10mocy)](https://www.wantedly.com/id/with10mocy)
