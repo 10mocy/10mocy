@@ -7,7 +7,7 @@
     - 🔖 a.k.a. SOMEMIYA Neiro
   - ⛱️ Born: Japan/Tochigi
   - 🏠 Live: Japan/Tokyo
-  - 🎮 Currently working: Game Development Company
+  - 🏢 Currently working: Game Development Company
   - 📧 E-Mail: ts@nectarition.jp
 - 📝 Event Organizer
   - 🐄 [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
