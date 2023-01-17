@@ -3,37 +3,37 @@
 ### 10mocy is ...
 
 - 🍷Me
-  - SAIGUSA Tomotada
-    - a.k.a. SOMEMIYA Neiro
-  - Born: Japan/Tochigi
-  - Live: Japan/Tokyo
-  - Currently working: Game Development Company
-  - E-Mail: ts@nectarition.jp
+  - 📛SAIGUSA Tomotada
+    - 🔖a.k.a. SOMEMIYA Neiro
+  - ⛱️Born: Japan/Tochigi
+  - 🏠Live: Japan/Tokyo
+  - 🎮Currently working: Game Development Company
+  - 📧E-Mail: ts@nectarition.jp
 - 📝Event Organizer
-  - [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
-  - [しおばな祭](https://shiokazehs.jp)
+  - 🐄[小春六花はヨーグルトが食べたい](https://kohatabe.jp)
+  - 🏫[しおばな祭](https://shiokazehs.jp)
 - 🖌️Designer
-  - [Nectarition Broccli](https://github.com/nectarition/Broccoli)
-  - [and more...](https://nectarition.jp/departments/daylily/)
+  - 🥦[Nectarition Broccli](https://github.com/nectarition/Broccoli)
+  - 📒[and more...](https://nectarition.jp/departments/daylily/)
 - 🧠Leader/Manager
-  - [ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
-  - [N-Point](https://github.com/npjpnet) - Chief Human resource Officer
+  - 🍑[ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
+  - 🎁[N-Point](https://github.com/npjpnet) - Chief Human resource Officer
 - 📐Enginner
-  - [TrainLCD(Collabolator)](https://github.com/TrainLCD)
+  - 🚃[TrainLCD(Collabolator)](https://github.com/TrainLCD)
 
-### Be interested in ... 
+### 💓Be interested in ... 
 
-- Technology
+- 💻Technology
   - Language/Framework
     - TypeScript, React
     - C#, .NET(ASP.NET Core)
   - Infrastructure
     - Microsoft Azure
     - Google Cloud Platform(Firebase)
-- Signage system
+- 🪧Signage system
   - Keihan Electric Railway
-- Cutie Design
+- 💌Cutie Design
 
-### Link
+### ⛓Link
 
 - [Wantedly(with10mocy)](https://www.wantedly.com/id/with10mocy)
