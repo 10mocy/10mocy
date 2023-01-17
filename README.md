@@ -4,9 +4,9 @@
 
 - 🧑 Me
   - 📛 SAIGUSA Tomotada
-    - 🔖 a.k.a. SOMEMIYA Neiro
-  - ⛱️ Born: Japan/Tochigi
-  - 🏠 Live: Japan/Tokyo
+    - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro)
+  - ⛱️ Born: Tochigi, JP
+  - 🏠 Live: Tokyo, JP
   - 🏢 Currently working: Game Development Company
   - 📧 E-Mail: ts@nectarition.jp
 - 📝 Event Organizer
