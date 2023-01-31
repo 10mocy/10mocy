@@ -13,7 +13,7 @@
   - 🐄 [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
   - 🏫 [しおばな祭](https://shiokazehs.jp)
 - 🖌️ Designer
-  - 🥦 [Nectarition Broccli](https://github.com/nectarition/Broccoli)
+  - 🥦 [Nectarition Broccoli](https://github.com/nectarition/Broccoli)
   - 📒 [and more...](https://nectarition.jp/departments/daylily/)
 - 🧠 Leader/Manager
   - 🍑 [ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
