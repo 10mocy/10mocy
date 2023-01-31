@@ -17,9 +17,9 @@
   - 📒 [and more...](https://nectarition.jp/departments/daylily/)
 - 🧠 Leader/Manager
   - 🍑 [ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
-  - 🎁 [N-Point](https://github.com/npjpnet) - Chief Human resource Officer
+  - 🎁 [N-Point](https://github.com/npjpnet) - Chief Human resource Officer / Project Manager
 - 📐 Enginner
-  - 🚃 [TrainLCD(Collaborator)](https://github.com/TrainLCD)
+  - 🚃 [TrainLCD](https://github.com/TrainLCD) - Collaborator
 
 ### 💓 Be interested in ... 
 
