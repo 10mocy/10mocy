@@ -7,7 +7,7 @@
     - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro), 10mocy/ともしー
   - ⛱️ Born: Tochigi, JP
   - 🏠 Live: Tokyo, JP
-  - 🏢 Currently working: Game Development Company
+  - 🏢 Currently working: Game Development Company as Backend Enginner(C#, ASP.NET Core, Microsoft Azure)
   - 📧 E-Mail: ts@nectarition.jp
 - 📝 Event Organizer
   - 🐄 [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
