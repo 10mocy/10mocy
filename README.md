@@ -4,7 +4,7 @@
 
 - 🧑 Me
   - 📛 SAIGUSA Tomotada
-    - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro)
+    - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro), 10mocy/ともしー
   - ⛱️ Born: Tochigi, JP
   - 🏠 Live: Tokyo, JP
   - 🏢 Currently working: Game Development Company
