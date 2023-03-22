@@ -1,6 +1,6 @@
 > 食わず嫌いをしない。 / Don't judge by looks.
 
-### 🍷 10mocy is ...
+## 🍷 10mocy is ...
 
 - 🧑 Me
   - 📛 SAIGUSA Tomotada
@@ -21,7 +21,7 @@
 - 📐 Enginner
   - 🚃 [TrainLCD](https://github.com/TrainLCD) - Collaborator
 
-### 💓 Be interested in ... 
+## 💓 Be interested in ... 
 
 - 💻 Technology
   - Language/Framework
@@ -35,13 +35,13 @@
 - 💌 Cutie Design
 - 🐄 [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
 
-### ⛓ Link
+## ⛓ Link
 
 - [Wantedly(with10mocy)](https://www.wantedly.com/id/with10mocy)
 
-### 🔒 PGP Public Key
+## 🔒 PGP Public Key
 
-#### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
+### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
 
 - [10mocy-public.asc](https://raw.githubusercontent.com/10mocy/10mocy/main/10mocy-public.asc)
 - Fingerprint: `9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91`
@@ -140,4 +140,3 @@ mDITVMJ53h+h7eWNf6FESrpXkv/smvUwJZczug9Tk0lRRAwH4nLuPvKvBrB96K51
 -----END PGP PUBLIC KEY BLOCK-----</pre>
   </div>
 </details>
-
