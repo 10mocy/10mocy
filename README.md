@@ -42,11 +42,13 @@
 
 #### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
 
-> [pgp_keys.asc](https://keybase.io/10mocy/pgp_keys.asc?fingerprint=91663840771cb0adf9e3b6489130cd952a289f91)
-> Fingerprint: 9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91
+- [pgp_keys.asc](https://keybase.io/10mocy/pgp_keys.asc?fingerprint=91663840771cb0adf9e3b6489130cd952a289f91)
+- Fingerprint: 9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+<details>
+  <summary>Raw PGP Public Key Block</summary>
+  <div>
+<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
@@ -134,6 +136,7 @@ OogWduI+Km8q73YAlF3V0/AaTVQSZh4H1xyY6EtEoSyOMgeLkRI9bTSUsAHteB6E
 mDITVMJ53h+h7eWNf6FESrpXkv/smvUwJZczug9Tk0lRRAwH4nLuPvKvBrB96K51
 2qoY2aIGzMV/IriFSOqlFe7/3hLx86o=
 =WOHY
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+  </div>
+</details>
 
-```
