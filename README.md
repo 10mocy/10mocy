@@ -33,7 +33,7 @@
 - 🪧 Signage system
   - Keihan Electric Railway
 - 💌 Cutie Design
-- 🐄 ❤ [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
+- 🐄 [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
 
 ### ⛓ Link
 
