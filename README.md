@@ -28,8 +28,8 @@
     - TypeScript, React
     - C#, .NET(ASP.NET Core)
   - Infrastructure
-    - Microsoft Azure
-    - Google Cloud Platform(Firebase)
+    - Microsoft Azure as PaaS
+    - Google Cloud Platform(Firebase) as mBaaS
 - 🪧 Signage system
   - Keihan Electric Railway
 - 💌 Cutie Design
