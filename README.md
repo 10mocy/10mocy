@@ -33,6 +33,7 @@
 - 🪧 Signage system
   - Keihan Electric Railway
 - 💌 Cutie Design
+- 🐄 ❤ [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
 
 ### ⛓ Link
 
@@ -42,7 +43,7 @@
 
 #### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
 
-- [10mocy-public.asc](https://github.com/10mocy/10mocy/blob/main/10mocy-public.asc)
+- [10mocy-public.asc](https://raw.githubusercontent.com/10mocy/10mocy/main/10mocy-public.asc)
 - Fingerprint: `9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91`
 
 <details>
