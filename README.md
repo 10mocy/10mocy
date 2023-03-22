@@ -42,8 +42,8 @@
 
 #### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
 
-- [pgp_keys.asc](https://keybase.io/10mocy/pgp_keys.asc?fingerprint=91663840771cb0adf9e3b6489130cd952a289f91)
-- Fingerprint: 9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91
+- [10mocy-public.asc](https://github.com/10mocy/10mocy/blob/main/10mocy-public.asc)
+- Fingerprint: `9166 3840 771C B0AD F9E3 B648 9130 CD95 2A28 9F91`
 
 <details>
   <summary>Raw PGP Public Key Block</summary>
