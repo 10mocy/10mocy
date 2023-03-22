@@ -5,8 +5,8 @@
 - 🧑 Me
   - 📛 SAIGUSA Tomotada
     - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro), 10mocy/ともしー
-  - ⛱️ Born: Yamanashi, JP
-  - 🏠 Live: Tokyo, JP / Tochigi, JP
+  - ⛱️ Born: Yamanashi, JP / Tochigi, JP
+  - 🏠 Live: Tokyo, JP
   - 🏢 Currently working: Game Development Company as Backend Enginner(C#, ASP.NET Core, Microsoft Azure)
   - 📧 E-Mail: ts@nectarition.jp
 - 📝 Event Organizer
