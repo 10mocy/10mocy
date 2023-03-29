@@ -142,3 +142,6 @@ mDITVMJ53h+h7eWNf6FESrpXkv/smvUwJZczug9Tk0lRRAwH4nLuPvKvBrB96K51
 -----END PGP PUBLIC KEY BLOCK-----</pre>
   </div>
 </details>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=10mocy)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10mocy&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css,hack)
