@@ -1,3 +1,5 @@
+[![10mocy's GitHub stats](https://github-readme-stats.vercel.app/api?username=10mocy&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 > 食わず嫌いをしない。 / Don't judge by looks.
 
 ## 🍷 10mocy is ...
