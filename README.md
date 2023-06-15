@@ -35,7 +35,7 @@
 - 💌 Cutie Design
   - Signage System
     - Keihan Electric Railway
-    - LIGHT LINE (Haga Utsunomiya LRT)
+    - LIGHTLINE (Haga Utsunomiya LRT)
 - 🐄 [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
 
 ## ⛓ Link
