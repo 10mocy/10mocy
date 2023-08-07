@@ -14,6 +14,7 @@
 - 📝 Event Organizer
   - 🐄 [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
   - 🏫 [しおばな祭](https://shiokazehs.jp)
+  - 🌱 [ふたばすてっぷ](https://twitter.com/futabastep)
 - 🖌️ Designer
   - 🥦 [Nectarition Broccoli](https://github.com/nectarition/Broccoli)
   - 📒 [and more...](https://nectarition.jp/departments/daylily/)
