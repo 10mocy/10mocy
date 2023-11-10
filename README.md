@@ -45,7 +45,7 @@
 
 ## 🔒 PGP Public Key
 
-### SAIGUSA Tomotada <ts@nectarition.jp, smmy@nectarition.jp>
+### SAIGUSA Tomotada <ts@nectarition.jp>
 
 - [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/A51A5C63D0DA50B2B64B44EBBC30D9572FE96AAD)
 - Fingerprint: `A51A 5C63 D0DA 50B2 B64B 44EB BC30 D957 2FE9 6AAD`
