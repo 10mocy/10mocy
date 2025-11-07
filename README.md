@@ -6,21 +6,22 @@
 
 - 🧑 Me
   - 📛 SAIGUSA Tomotada
-    - 🔖 a.k.a. 染宮ねいろ(SOMEMIYA Neiro), 10mocy/ともしー
-  - ⛱️ Born: Yamanashi, JP / Tochigi, JP
-  - 🏠 Live: Tokyo, JP
-  - 🏢 Currently working: Game Development Company as Backend Enginner(C#, ASP.NET Core, Microsoft Azure)
+    - 🔖 a.k.a. ともしー
+  - ⛱️ Born: Tochigi, JP / Yamanashi, JP
+  - 🏠 Live: Aichi, JP
+    - 👋 Lived: Tokyo, JP / Kanagawa, JP / Tochigi, JP
   - 📧 E-Mail: ts@nectarition.jp
 - 📝 Event Organizer
   - 🐄 [小春六花はヨーグルトが食べたい](https://kohatabe.jp)
   - 🏫 [しおばな祭](https://shiokazehs.jp)
   - 🌱 [ふたばすてっぷ](https://twitter.com/futabastep)
+  - 🧸 [うちのこどーぞ！](https://twitter.com/nct_uchidozo)
 - 🖌️ Designer
   - 🥦 [Nectarition Broccoli](https://github.com/nectarition/Broccoli)
-  - 📒 [and more...](https://nectarition.jp/departments/daylily/)
+  - 🌸 [AstroSakura](https://github.com/nectarition/AstroSakura)
 - 🧠 Leader/Manager
-  - 🍑 [ねくたりしょん / Nectarition](https://github.com/nectarition) - Leader
-  - 🎁 [N-Point](https://github.com/npjpnet) - Chief Human resource Officer / Project Manager
+  - 🍑 [ねくたりしょん / Nectarition](https://github.com/nectarition) - Captain
+  - 🎁 [N-Point](https://github.com/npjpnet) - Chief Human resource Officer
 - 📐 Enginner
   - 🚃 [TrainLCD](https://github.com/TrainLCD) - Collaborator
 
@@ -29,19 +30,17 @@
 - 💻 Technology
   - Language/Framework
     - TypeScript, React
-    - C#, .NET(ASP.NET Core)
+    - C#, .NET (ASP.NET Core)
   - Infrastructure
-    - Microsoft Azure as PaaS
-    - Google Cloud Platform(Firebase) as mBaaS
-- 💌 Cutie Design
+    - Microsoft Azure
+    - Google Cloud Platform (Firebase)
+    - Cloudflare
+- 💌 Cutie Design / Character
   - Signage System
     - Keihan Electric Railway
     - LIGHTLINE (Haga Utsunomiya LRT)
-- 🐄 [Koharu Rikka](https://tokyo6.tokyo/koharurikka/)
-
-## ⛓ Link
-
-- [Wantedly(with10mocy)](https://www.wantedly.com/id/with10mocy)
+  - [小春六花 (Koharu Rikka)](https://tokyo6.tokyo/koharurikka/)
+  - [双葉湊音 (Futaba Minato)](https://www.futabaminato.com/)
 
 ## 🔒 PGP Public Key
 
